@@ -1,4 +1,4 @@
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/auto-return-in-ruby" target="_blank">https://www.alexindev.com/posts/auto-return-in-ruby</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/auto-return-in-ruby" target="_blank">https://www.alexindev.com/posts/auto-return-in-ruby</a>
 ----------
 ##### This article is written for ruby version 2.3.1. In other versions, some things may differ.
 ----------
@@ -200,4 +200,4 @@ So, in the last example, we call the method that takes the symbol as the argumen
 
 ----------
 
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/auto-return-in-ruby" target="_blank">https://www.alexindev.com/posts/auto-return-in-ruby</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/auto-return-in-ruby" target="_blank">https://www.alexindev.com/posts/auto-return-in-ruby</a>

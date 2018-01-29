@@ -1,4 +1,4 @@
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2</a>
 ----------
 ##### This article is written for ruby version 2.3.1. In other versions, some things may differ.
 ----------
@@ -302,4 +302,4 @@ Thus, use the return keyword if it really has a semantic load, it is not accepte
 
 ----------
 
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-1-2</a>

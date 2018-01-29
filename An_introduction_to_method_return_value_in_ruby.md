@@ -1,4 +1,4 @@
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby" target="_blank">https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby" target="_blank">https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby</a>
 ----------
 ##### This article is written for ruby version 2.3.1. In other versions, some things may differ.
 ----------
@@ -311,4 +311,4 @@ produces:
 - a return value can be directly assigned to variables.
 
 ----------
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby" target="_blank">https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby" target="_blank">https://www.alexindev.com/posts/an-introduction-to-method-return-value-in-ruby</a>
