@@ -5,13 +5,13 @@ In this article, we will continue to consider the features of the premature retu
 ----------
 This article is divided into the following sections:
 
- 1. [Empty return returns nil](##Empty-return-returns-nil)
- 2. [We can implicitly define an array](##We-can-implicitly-define-an-array)
- 3. [The return keyword is used when you need to exit a method before the last line in a method is executed](##The-return-keyword-is-used-when-you-need-to-exit-a-method-before-the-last-line-in-a-method-is-executed)
- 4. [The return keyword is used to interrupt the call stack](##The-return-keyword-is-used-to-interrupt-the-call-stack)
- 5. [The return keyword is useful for refactoring massive validations](##The-return-keyword-is-useful-for-refactoring-massive-validations)
- 6. [The return keyword and the error "stack level too deep"](##The-return-keyword-and-the-error-"stack-level-too-deep")
- 7. [Conclusions](##Conclusions)
+ 1. [Empty return returns nil](#Empty-return-returns-nil)
+ 2. [We can implicitly define an array](#We-can-implicitly-define-an-array)
+ 3. [The return keyword is used when you need to exit a method before the last line in a method is executed](#The-return-keyword-is-used-when-you-need-to-exit-a-method-before-the-last-line-in-a-method-is-executed)
+ 4. [The return keyword is used to interrupt the call stack](#The-return-keyword-is-used-to-interrupt-the-call-stack)
+ 5. [The return keyword is useful for refactoring massive validations](#The-return-keyword-is-useful-for-refactoring-massive-validations)
+ 6. [The return keyword and the error "stack level too deep"](#The-return-keyword-and-the-error-"stack-level-too-deep")
+ 7. [Conclusions](#Conclusions)
 
 
 
