@@ -1,4 +1,6 @@
-##### Last version of this article you can find here: https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2
+##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2</a>
+----------
+
 
 # Premature return in ruby (part 2/2)
 
@@ -290,5 +292,6 @@ As we can see, each time we return from the method, we call another method which
 - the return keyword is useful for refactoring massive validations;
 - the return keyword and the error "stack level too deep".
 
+----------
 
-##### Last version of this article you can find here: https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2
+##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2</a>
