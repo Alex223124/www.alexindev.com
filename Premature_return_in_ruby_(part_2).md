@@ -10,7 +10,7 @@ This article is divided into the following sections:
  3. [The return keyword is used when you need to exit a method before the last line in a method is executed](#the-return-keyword-is-used-when-you-need-to-exit-a-method-before-the-last-line-in-a-method-is-executed)
  4. [The return keyword is used to interrupt the call stack](#the-return-keyword-is-used-to-interrupt-the-call-stack)
  5. [The return keyword is useful for refactoring massive validations](#the-return-keyword-is-useful-for-refactoring-massive-validations)
- 6. [The return keyword and the error "stack level too deep"](#the-return-keyword-and-the-error-"stack-level-too-deep")
+ 6. [The return keyword and the error "stack level too deep"](#the-return-keyword-and-the-error-stack-level-too-deep)
  7. [Conclusions](#conclusions)
 
 
