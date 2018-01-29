@@ -9,12 +9,12 @@ In this article, we will consider the general introductory moments of how ruby d
 ----------
 This article is divided into the following sections:
 
- 1. [Why it's important to know how ruby determines a return value](#mpty-return-returns-nil)
- 2. [A method always returns only one value](#e-can-implicitly-define-an-array)
- 3. [A return value and the work of the puts method - different things](#he-rxecuted)
- 4. [Types of return from a method](#he-rterrupt-the-call-stack)
- 5. [Exception from all rules about return value - assignment methods](#hasfasfasfas)
- 6. [A return value can be directly assigned to variables](#dasdsad)
+ 1. [Why it's important to know how ruby determines a return value](#why-its-important-to-know-how-ruby-determines-a-return-value)
+ 2. [A method always returns only one value](#a-method-always-returns-only-one-value)
+ 3. [A return value and the work of the puts method - different things](#a-return-value-and-the-work-of-the-puts-method---different-things)
+ 4. [Types of return from a method](#types-of-return-from-a-method)
+ 5. [Exception from all rules about return value - assignment methods](#exception-from-all-rules-about-return-value---assignment-methods)
+ 6. [A return value can be directly assigned to variables](#a-return-value-can-be-directly-assigned-to-variables)
  7. [Conclusions](#conclusions)
 
 ----------
@@ -302,7 +302,7 @@ produces:
 
 
 ----------
-Conclusions
+##Conclusions
 - depending on whether we use the explicit return from a method or not, a method with a similar set of expressions can work in fundamentally different way;
 - a method always returns only one value;
 - a return value and the work of the puts method - different things;
