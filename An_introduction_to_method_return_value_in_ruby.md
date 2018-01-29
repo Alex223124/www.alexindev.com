@@ -302,7 +302,7 @@ produces:
 
 
 ----------
-##Conclusions
+## Conclusions
 - depending on whether we use the explicit return from a method or not, a method with a similar set of expressions can work in fundamentally different way;
 - a method always returns only one value;
 - a return value and the work of the puts method - different things;
