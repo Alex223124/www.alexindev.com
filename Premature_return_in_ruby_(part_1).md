@@ -9,13 +9,13 @@ In this article, we will consider the features of the premature return and in wh
 ----------
 This article is divided into the following sections:
 
- 1. [What is a premature return?](##what-is-a-premature-return)
- 2. [The return keyword works only once](##the-return-keyword-works-only-once)
- 3. [It's not recommended to place the return keyword at the center of the method](##its-not-recommended-to-place-the-return-keyword-at-the-center-of-the-method)
- 4. [The return keyword can hide an error in the code](##the-return-keyword-can-hide-an-error-in-the-code)
+ 1. [What is a premature return?](#what-is-a-premature-return)
+ 2. [The return keyword works only once](#the-return-keyword-works-only-once)
+ 3. [It's not recommended to place the return keyword at the center of the method](#its-not-recommended-to-place-the-return-keyword-at-the-center-of-the-method)
+ 4. [The return keyword can hide an error in the code](#the-return-keyword-can-hide-an-error-in-the-code)
  5. [Don't use the return keyword for the last line of a method - in ruby it's not necessary
-](##dont-use-the-return-keyword-for-the-last-line-of-a-method---in-ruby-its-not-necessary)
- 6. [Conclusions](##conclusions)
+](#dont-use-the-return-keyword-for-the-last-line-of-a-method---in-ruby-its-not-necessary)
+ 6. [Conclusions](#conclusions)
 
 
 ----------
