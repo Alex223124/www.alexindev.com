@@ -15,7 +15,7 @@ This article is divided into the following sections:
  4. [The return keyword can hide an error in the code](##the-return-keyword-can-hide-an-error-in-the-code)
  5. [Don't use the return keyword for the last line of a method - in ruby it's not necessary
 ](##dont-use-the-return-keyword-for-the-last-line-of-a-method---in-ruby-its-not-necessary)
- 6. [Conclusions](##Conclusions)
+ 6. [Conclusions](##conclusions)
 
 
 ----------
