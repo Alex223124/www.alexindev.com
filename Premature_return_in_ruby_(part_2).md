@@ -1,6 +1,7 @@
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2</a>
 ----------
-
+This article is written for ruby version 2.3.1. In other versions, some things may differ.
+----------
 # Premature return in ruby (part 2/2)
 
 In this article, we will continue to consider the features of the premature return from a method and when we should use it.
@@ -293,4 +294,4 @@ As we can see, each time we return from the method, we call another method which
 
 ----------
 
-##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2</a>
+##### Latest version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2</a>
