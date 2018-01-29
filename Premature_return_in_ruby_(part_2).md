@@ -1,3 +1,5 @@
+##### Last version of this article you can find here: https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2
+
 # Premature return in ruby (part 2/2)
 
 In this article, we will continue to consider the features of the premature return from a method and when we should use it.
@@ -287,3 +289,6 @@ As we can see, each time we return from the method, we call another method which
 - the return keyword is used to interrupt the call stack;
 - the return keyword is useful for refactoring massive validations;
 - the return keyword and the error "stack level too deep".
+
+
+##### Last version of this article you can find here: https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2
