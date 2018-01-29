@@ -1,6 +1,7 @@
 ##### Last version of this article you can find here:  <a href="https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2" target="_blank">https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2</a>
 ----------
 
+[https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2](https://www.alexindev.com/posts/premature-return-in-ruby-part-2-2){:target="_blank"}
 
 # Premature return in ruby (part 2/2)
 
