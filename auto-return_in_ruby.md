@@ -9,11 +9,11 @@ In this article, we will consider the characteristics of the work of the implici
 ----------
 This article is divided into the following sections:
 
- 1. [By default, a return value is the result of the last line of a method](#Empty-return-returns-nil)
- 2. [An empty method returns nil](#We-can-implicitly-define-an-array)
- 3. [The last line can be just an object](#The-rxecuted)
- 4. [If we need to return multiple objects from a method, we can use an array](#The-rterrupt-the-call-stack)
- 5. [In ruby, almost everything has a return value](#Thasfasfasfas)
+ 1. [By default, a return value is the result of the last line of a method](#by-default-a-return-value-is-the-result-of-the-last-line-of-a-method)
+ 2. [An empty method returns nil](#an-empty-method-returns-nil)
+ 3. [The last line can be just an object](#the-last-line-can-be-just-an-object)
+ 4. [If we need to return multiple objects from a method, we can use an array](#if-we-need-to-return-multiple-objects-from-a-method-we-can-use-an-array)
+ 5. [In ruby, almost everything has a return value](#in-ruby-almost-everything-has-a-return-value)
  6. [Conclusions](#conclusions)
 
 ----------
@@ -191,7 +191,7 @@ So, in the last example, we call the method that takes the symbol as the argumen
 
 
 ----------
-Conclusions
+## Conclusions
 - by default, a return value is the result of the last line of a method;
 - an empty method returns nil;
 - the last line can be just an object;
