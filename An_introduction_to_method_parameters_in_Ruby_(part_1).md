@@ -9,17 +9,17 @@ This article is the first article with various general points about parameters i
 ----------
 This article is divided into the following sections:
 
- 1. [Methods in ruby have parameters](#)
- 2. [What is a parameter?](#)
- 3. [Parameters should be defined before use of a method](#)
- 4. [Parameters are separated by a comma](#)
- 5. [Parentheses for parameter definition are optional](#)
- 6. [Parameters must be added to a method when the necessary data is inaccessible within the method](#)
- 7. [The entire group of parameters that the method has is called a list of parameters](#)
- 8. [Parameters and arguments are different entities](#)
- 9. [When we pass arguments to a method, the method creates a local variable which has the same name](#)
- 10. [In ruby, arguments inside a method are passed by reference](#)
- 11. [Conclusions](#)
+ 1. [Methods in ruby have parameters](#methods-in-ruby-have-parameters)
+ 2. [What is a parameter?](#what-is-a-parameter)
+ 3. [Parameters should be defined before use of a method](#parameters-should-be-defined-before-use-of-a-method)
+ 4. [Parameters are separated by a comma](#parameters-are-separated-by-a-comma)
+ 5. [Parentheses for parameter definition are optional](#parentheses-for-parameter-definition-are-optional)
+ 6. [Parameters must be added to a method when the necessary data is inaccessible within the method](#parameters-must-be-added-to-a-method-when-a-necessary-data-is-inaccessible-within-the-method)
+ 7. [The entire group of parameters that the method has is called a list of parameters](#the-entire-group-of-parameters-that-the-method-has-is-called-a-list-of-parameters)
+ 8. [Parameters and arguments are different entities](#parameters-and-arguments-are-different-entities)
+ 9. [When we pass arguments to a method, the method creates a local variable which has the same name](#when-we-pass-arguments-to-a-method-the-method-creates-a-local-variable-which-has-the-same-name)
+ 10. [In ruby, arguments inside a method are passed by reference](#in-ruby-arguments-inside-a-method-are-passed-by-reference)
+ 11. [Conclusions](#conclusions)
 ----------
 ## Methods in ruby have parameters
 You could already saw a lot of methods that don't take any parameters.
@@ -347,7 +347,7 @@ What happened to the object? As was mentioned earlier, the method created a loca
 
 
 ----------
-Conclusions
+## Conclusions
 - in ruby, as in many other programming languages, methods have parameters;
 - Parameters in ruby are variables that are defined in method definition and which represent the ability of a method to accept arguments;
 - parameters are defined together with a method before use;
