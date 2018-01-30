@@ -9,12 +9,12 @@ In this article, we'll talk about the features of a last positional parameter in
 ----------
 This article is divided into the following sections:
 
- 1. [A last positional parameter works as a hash parameter](#)
- 2. [Most likely it's syntactic sugar](#)
- 3. [This feature works only with the positional parameter and only with the last one](#)
- 4. [If there are several arguments, then other objects should necessarily go before the hash](#)
- 5. [If we assign each hash to a separate variable, they will be treated as separate objects](#)
- 6. [Conclusions](#)
+ 1. [A last positional parameter works as a hash parameter](#a-last-positional-parameter-works-as-a-hash-parameter)
+ 2. [Most likely it's syntactic sugar](#most-likely-its-syntactic-sugar)
+ 3. [This feature works only with the positional parameter and only with the last one](#this-feature-works-only-with-the-positional-parameter-and-only-with-the-last-one)
+ 4. [If there are several arguments, then other objects should necessarily go before the hash](#if-there-are-several-arguments-then-other-objects-should-necessarily-go-before-the-hash)
+ 5. [If we assign each hash to a separate variable, they will be treated as separate objects](#if-we-assign-each-hash-to-a-separate-variable-they-will-be-treated-as-separate-objects)
+ 6. [Conclusions](#conclusions)
 
 ----------
 ## A last positional parameter works as a hash parameter
@@ -206,7 +206,7 @@ As we see, the error text indicates that the method expected 2 arguments, and we
 
 
 ----------
-Conclusions
+## Conclusions
 - a last positional parameter works as a hash parameter;
 - hash parameter allows us to take multiple hashes as a single object;
 - this feature works only with the positional parameter and only with the last one;
