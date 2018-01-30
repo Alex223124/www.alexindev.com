@@ -9,16 +9,16 @@ In this article, we will consider the features of working with a parameter that 
 ----------
 This article is divided into the following sections:
 
- 1. [Parameter with ampersand operator](#)
- 2. [A block that we pass to a method is converted to Proc object](#)
- 3. [A block can be called not only using the call method but also via keyword 'yield'](#)
- 4. [Parameter with ampersand operator is optional](#)
- 5. [If a method doesn't have a parameter with the ampersand operator (&), then the method can still accept a block](#)
- 6. [Why use a parameter with the ampersand operator if we can already pass a block to a method?](#)
- 7. [Parameter with the ampersand operator can be declared only once](#)
- 8. [The parameter with the ampersand operator must be the last parameter in a parameter list](#)
- 9. [A parameter with the ampersand operator is only suitable for blocks; Proc and Lambda can't be transmitted through it](#)
- 10. [Conclusions](#)
+ 1. [Parameter with ampersand operator](#parameter-with-ampersand-operator)
+ 2. [A block that we pass to a method is converted to Proc object](#a-block-that-we-pass-to-a-method-is-converted-to-proc-object)
+ 3. [A block can be called not only using the call method but also via keyword 'yield'](#a-block-can-be-called-not-only-using-the-call-method-but-also-via-keyword-yield)
+ 4. [Parameter with ampersand operator is optional](#parameter-with-ampersand-operator-is-optional)
+ 5. [If a method doesn't have a parameter with the ampersand operator (&), then the method can still accept a block](#if-a-method-doesnt-have-a-parameter-with-the-ampersand-operator--then-the-method-can-still-accept-a-block)
+ 6. [Why use a parameter with the ampersand operator if we can already pass a block to a method?](#why-use-a-parameter-with-the-ampersand-operator-if-we-can-already-pass-a-block-to-a-method)
+ 7. [Parameter with the ampersand operator can be declared only once](#parameter-with-the-ampersand-operator-can-be-declared-only-once)
+ 8. [The parameter with the ampersand operator must be the last parameter in a parameter list](#the-parameter-with-the-ampersand-operator-must-be-the-last-parameter-in-a-parameter-list)
+ 9. [A parameter with the ampersand operator is only suitable for blocks; Proc and Lambda can't be transmitted through it](#a-parameter-with-the-ampersand-operator-is-only-suitable-for-blocks-proc-and-lambda-cant-be-transmitted-through-it)
+ 10. [Conclusions](#conclusions)
 ----------
 ## Parameter with ampersand operator
 Methods in ruby can take a block as an argument and use it inside a method. In order to define a block as a parameter ruby has syntax with ampersand operator (&).
