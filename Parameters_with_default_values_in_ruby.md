@@ -9,15 +9,15 @@ In this article, we'll look at the features of working with parameters that have
 ----------
 This article is divided into the following sections:
 
- 1. [The syntax for declaring parameters with default values](#)
- 2. [The default values are used only when you don't pass any other arguments](#)
- 3. [This kind of parameters is useful when we have parameters that most of the time have same values](#)
- 4. [A sequence of arguments must correspond to a sequence of parameters](#)
- 5. [At the beginning of the list of parameters, we must define parameters that we often change](#)
- 6. [We can use almost any code as default values](#)
- 7. [Usage of methods as default values can be useful](#)
- 8. [Usage of a hash as a default value](#)
- 9. [Conclusions](#)
+ 1. [The syntax for declaring parameters with default values](#the-syntax-for-declaring-parameters-with-default-values)
+ 2. [The default values are used only when you don't pass any other arguments](#the-default-values-are-used-only-when-you-dont-pass-any-other-arguments)
+ 3. [This kind of parameters is useful when we have parameters that most of the time have same values](#this-kind-of-parameters-is-useful-when-we-have-parameters-that-most-of-the-time-have-same-values)
+ 4. [A sequence of arguments must correspond to a sequence of parameters](#a-sequence-of-arguments-must-correspond-to-a-sequence-of-parameters)
+ 5. [At the beginning of the list of parameters, we must define parameters that we often change](#at-the-beginning-of-the-list-of-parameters-we-must-define-parameters-that-we-often-change)
+ 6. [We can use almost any code as default values](#we-can-use-almost-any-code-as-default-values)
+ 7. [Usage of methods as default values can be useful](#usage-of-methods-as-default-values-can-be-useful)
+ 8. [Usage of a hash as a default value](#usage-of-a-hash-as-a-default-value)
+ 9. [Conclusions](#conclusions)
 
 ----------
 ## The syntax for declaring parameters with default values
