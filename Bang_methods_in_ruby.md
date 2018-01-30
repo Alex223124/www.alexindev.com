@@ -9,11 +9,11 @@ In this article, we'll look at what boolean methods are and how they work.
 ----------
 This article is divided into the following sections:
 
- 1. [What are bang methods in ruby](#)
- 2. [Bang method must return a modified object](#)
- 3. [Bang methods can return nil](#)
- 4. [Usually, bang method has its non-bang equivalent](#)
- 5. [Summary](#)
+ 1. [What are bang methods in ruby](#what-are-bang-methods-in-ruby)
+ 2. [Bang method must return a modified object](#bang-method-must-return-a-modified-object)
+ 3. [Bang methods can return nil](#bang-methods-can-return-nil)
+ 4. [Usually, bang method has its non-bang equivalent](#usually-bang-method-has-its-non-bang-equivalent)
+ 5. [Summary](#summary)
 ----------
 ## What are bang methods in ruby
 Methods that end with the exclamation mark, for example, downcase! or compact! are called bang methods ( also mutator methods, dangerous methods). The usual methods perform an action on a copy of the object and then return copy, bang methods - perform an action and change the object, returning the modified object as a result. Sometimes this is called a 'mutation' of the object. The exclamation mark, in this case, is usually associated with an attempt to send the message: "Warning! This method can be dangerous! It will change the value of the object!"
