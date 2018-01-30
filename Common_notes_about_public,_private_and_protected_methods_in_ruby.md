@@ -9,14 +9,14 @@ Here I decided to post everything that in my opinion did not fit with other thin
 ----------
 This article is divided into the following sections:
 
- 1. [Private and protected methods are accessible via the send method](#)
- 2. [When is the send method usually used?](#)
- 3. [Private and protected methods are not accessible through the public_send method](#)
- 4. [The send method and whether there is the access level in ruby](#)
- 5. [The visibility of the method can be redefined just like the method itself](#)
- 6. [We can change the visibility of the method in derived classes too](#)
- 7. [How to list private, public, protected methods of the class](#)
- 8. [Dinosaurs and Excalibur (example of using public, private, and protected methods together](#)
+ 1. [Private and protected methods are accessible via the send method](#private-and-protected-methods-are-accessible-via-the-send-method)
+ 2. [When is the send method usually used?](#when-is-the-send-method-usually-used)
+ 3. [Private and protected methods are not accessible through the public_send method](#private-and-protected-methods-are-not-accessible-through-the-public_send-method)
+ 4. [The send method and whether there is the access level in ruby](#the-send-method-and-whether-there-is-the-access-level-in-ruby)
+ 5. [The visibility of the method can be redefined just like the method itself](#the-visibility-of-the-method-can-be-redefined-just-like-the-method-itself)
+ 6. [We can change the visibility of the method in derived classes too](#we-can-change-the-visibility-of-the-method-in-derived-classes-too)
+ 7. [How to list private, public, protected methods of the class](#how-to-list-private-public-protected-methods-of-the-class)
+ 8. [Dinosaurs and Excalibur (example of using public, private, and protected methods together](#dinosaurs-and-excalibur-example-of-using-public-private-and-protected-methods-together)
  9. [Conclusions](#conclusions)
 ----------
 ## Private and protected methods are accessible via the send method
