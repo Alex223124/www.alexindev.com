@@ -9,19 +9,19 @@ In this article, we'll look at what protection methods are and how they are used
 ----------
 This article is divided into the following sections:
 
- 1. [What are protected methods in Ruby?](#)
- 2. [Using the protected method](#)
- 3. [Using the protected method with explicit arguments](#)
- 4. [Using the protected method ("wrapper" syntax)](#)
- 5. [Protected methods can't be called outside the class](#)
- 6. [Protected methods can be called inside a class inside other methods](#)
- 7. [Protected methods are inherited by derived classes](#)
- 8. [Protected methods can be called using an explicit receiver](#)
- 9. [Why do we need an explicit receiver?](#)
- 10. [Example: Creation of comparison methods for instances of the same class](#)
- 11. [Example: Definition of the equality comparison operator](#)
- 12. [Style recommendations](#)
- 13. [Conclusions](#)
+ 1. [What are protected methods in Ruby?](#what-are-protected-methods-in-ruby)
+ 2. [Using the protected method](#using-the-protected-method)
+ 3. [Using the protected method with explicit arguments](#using-the-protected-method-with-explicit-arguments)
+ 4. [Using the protected method ("wrapper" syntax)](#using-the-protected-method-wrapper-syntax)
+ 5. [Protected methods can't be called outside the class](#protected-methods-cant-be-called-outside-the-class)
+ 6. [Protected methods can be called inside a class inside other methods](#protected-methods-can-be-called-inside-a-class-inside-other-methods)
+ 7. [Protected methods are inherited by derived classes](#protected-methods-are-inherited-by-derived-classes)
+ 8. [Protected methods can be called using an explicit receiver](#protected-methods-can-be-called-using-an-explicit-receiver)
+ 9. [Why do we need an explicit receiver?](#why-do-we-need-an-explicit-receiver)
+ 10. [Example: Creation of comparison methods for instances of the same class](#example-creation-of-comparison-methods-for-instances-of-the-same-class)
+ 11. [Example: Definition of the equality comparison operator](#example-definition-of-the-equality-comparison-operator)
+ 12. [Style recommendations](#style-recommendations)
+ 13. [Conclusions](#conclusions)
 
 ----------
 ## What are protected methods in Ruby?
