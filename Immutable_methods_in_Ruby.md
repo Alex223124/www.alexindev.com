@@ -9,8 +9,8 @@ In this article, we'll look at what imitable methods are and how they work.
 ----------
 This article is divided into the following sections:
 
- 1. [What are immutable methods in ruby](#)
- 2. [The logic of immutable methods](#)
+ 1. [What are immutable methods in ruby](#what-are-immutable-methods-in-ruby)
+ 2. [The logic of immutable methods](#the-logic-of-immutable-methods)
  3. [Summary](#summary)
 ----------
 ## What are immutable methods in ruby
