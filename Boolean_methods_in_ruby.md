@@ -9,10 +9,10 @@ In this article, we'll look at what boolean methods are and how they work.
 ----------
 This article is divided into the following sections:
 
- 1. [What are Boolean methods in ruby ](#)
- 2. [The question mark is used when the method returns boolean value](#)
- 3. [Perfectly combined with comparison operators](#)
- 4. [Conclusions](#)
+ 1. [What are Boolean methods in ruby ](#what-are-boolean-methods-in-ruby)
+ 2. [The question mark is used when the method returns boolean value](#the-question-mark-is-used-when-the-method-returns-boolean-value)
+ 3. [Perfectly combined with comparison operators](#perfectly-combined-with-comparison-operators)
+ 4. [Conclusions](#conclusions)
 ----------
 ## What are Boolean methods in ruby
 Methods that end with the question mark (?) in ruby has a few names: predicates, query or boolean methods. It's assumed that by these methods we ask a certain question and can get certain information about the object. For example, ruby has the method 'any?'. With it, we can ask an array if it has any elements inside it and as a result, we will get 'true' or 'false'.
