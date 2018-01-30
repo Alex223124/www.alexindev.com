@@ -2,7 +2,7 @@
 ----------
 ##### This article is written for ruby version 2.3.1. In other versions, some things may differ.
 ----------
-## Boolean methods in ruby?
+## Boolean methods in ruby
 
 In this article, we'll look at what boolean methods are and how they work.
 
