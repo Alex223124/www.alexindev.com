@@ -9,14 +9,14 @@ In this article, we'll look at the basic aspects of working with a parameter wit
 ----------
 This article is divided into the following sections:
 
- 1. [A parameter with the splat operator allows us to work with an undefined number of arguments](#)
- 2. [A parameter with the splat operator takes only those arguments for which there were no other parameters](#)
- 3. [A parameter with the splat operator is optional](#)
- 4. [A local variable will reference an empty array if arguments are not passed](#)
- 5. [A parameter with the splat operator converts the arguments to an array within a method](#)
- 6. [The arguments are passed in the same order in which they are specified when a method is called](#)
- 7. [A method can't have two parameters with splat operator](#)
- 8. [Conclusions](#)
+ 1. [A parameter with the splat operator allows us to work with an undefined number of arguments](#a-parameter-with-the-splat-operator-allows-us-to-work-with-an-undefined-number-of-arguments)
+ 2. [A parameter with the splat operator takes only those arguments for which there were no other parameters](#a-parameter-with-the-splat-operator-takes-only-those-arguments-for-which-there-were-no-other-parameters)
+ 3. [A parameter with the splat operator is optional](#a-parameter-with-the-splat-operator-is-optional)
+ 4. [A local variable will reference an empty array if arguments are not passed](#a-local-variable-will-reference-an-empty-array-if-arguments-are-not-passed)
+ 5. [A parameter with the splat operator converts the arguments to an array within a method](#a-parameter-with-the-splat-operator-converts-the-arguments-to-an-array-within-a-method)
+ 6. [The arguments are passed in the same order in which they are specified when a method is called](#the-arguments-are-passed-in-the-same-order-in-which-they-are-specified-when-a-method-is-called)
+ 7. [A method can't have two parameters with splat operator](#a-method-cant-have-two-parameters-with-splat-operator)
+ 8. [Conclusions](#conclusions)
 
 ----------
 ## A parameter with the splat operator allows us to work with an undefined number of arguments
