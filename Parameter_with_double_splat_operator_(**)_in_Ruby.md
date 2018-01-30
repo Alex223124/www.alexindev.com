@@ -9,14 +9,14 @@ In this article, we will consider the features of working with a parameter with 
 ----------
 This article is divided into the following sections:
 
- 1. [The syntax of parameter with double splat operator](#)
- 2. [Created specifically for processing hashes](#)
- 3. [Parameter with double splat operator is optional](#)
- 4. [Works only with one hash](#)
- 5. [Must be the last parameter in a parameter list](#)
- 6. [The rule of the last hash parameter is also valid for a parameter with the double splat operator](#)
- 7. [Keyword parameter plus parameter with double splat operator are compatible](#)
- 8. [Conclusions](#)
+ 1. [The syntax of parameter with double splat operator](#the-syntax-of-parameter-with-double-splat-operator)
+ 2. [Created specifically for processing hashes](#created-specifically-for-processing-hashes)
+ 3. [Parameter with double splat operator is optional](#parameter-with-double-splat-operator-is-optional)
+ 4. [Works only with one hash](#works-only-with-one-hash)
+ 5. [Must be the last parameter in a parameter list](#must-be-the-last-parameter-in-a-parameter-list)
+ 6. [The rule of the last hash parameter is also valid for a parameter with the double splat operator](#the-rule-of-the-last-hash-parameter-is-also-valid-for-a-parameter-with-the-double-splat-operator)
+ 7. [Keyword parameter plus parameter with double splat operator are compatible](#keyword-parameter-plus-parameter-with-double-splat-operator-are-compatible)
+ 8. [Conclusions](#conclusions)
 ----------
 ## The syntax of parameter with double splat operator
 A parameter with double splat operator is a parameter before which we use two splat operators (**).
