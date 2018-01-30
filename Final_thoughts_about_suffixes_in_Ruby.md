@@ -9,9 +9,9 @@ In this article, we will consider ending thoughts about how suffixes are used in
 ----------
 This article is divided into the following sections:
 
- 1. [To use conventions or not - your choice](#)
- 2. [Even in the standard library you can find methods which not follow conventions](#)
- 3. [Various libraries may not follow the conventions](#)
+ 1. [To use conventions or not - your choice](#to-use-conventions-or-not---your-choice)
+ 2. [Even in the standard library you can find methods which not follow conventions](#even-in-the-standard-library-you-can-find-methods-which-not-follow-conventions)
+ 3. [Various libraries may not follow the conventions](#various-libraries-may-not-follow-the-conventions)
  4. [Summary](#summary)
 ----------
 ## To use conventions or not - your choice
