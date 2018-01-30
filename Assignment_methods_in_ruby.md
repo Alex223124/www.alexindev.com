@@ -9,8 +9,8 @@ In this article, we'll look at what assignment methods are and how they work.
 ----------
 This article is divided into the following sections:
 
- 1. [What are assignment methods in ruby?](#)
- 2. [Assignment methods always return the assigned value](#)
+ 1. [What are assignment methods in ruby?](#what-are-assignment-methods-in-ruby)
+ 2. [Assignment methods always return the assigned value](#assignment-methods-always-return-the-assigned-value)
  3. [Summary](#summary)
 ----------
 ## What are assignment methods in ruby?
