@@ -9,17 +9,17 @@ In this article, we'll look at what private methods are and how they are used in
 ----------
 This article is divided into the following sections:
 
- 1. [What are private methods in Ruby?](#)
- 2. [Using the private method](#)
- 3. [Using the private method with explicit arguments](#)
- 4. [Using the private method ("wrapper" syntax)](#)
- 5. [Private methods can't be called outside the class](#)
- 6. [Private methods can be called inside a class inside other methods](#)
- 7. [Private methods can't be called using an explicit receiver](#)
- 8. [Private methods are inherited by derived classes](#)
- 9. [Recommendations when to use public methods](#)
- 10. [Style recommendations](#)
- 11. [Conclusions](#)
+ 1. [What are private methods in Ruby?](#what-are-private-methods-in-ruby)
+ 2. [Using the private method](#using-the-private-method)
+ 3. [Using the private method with explicit arguments](#using-the-private-method-with-explicit-arguments)
+ 4. [Using the private method ("wrapper" syntax)](#using-the-private-method-wrapper-syntax)
+ 5. [Private methods can't be called outside the class](#private-methods-cant-be-called-outside-the-class)
+ 6. [Private methods can be called inside a class inside other methods](#private-methods-can-be-called-inside-a-class-inside-other-methods)
+ 7. [Private methods can't be called using an explicit receiver](#private-methods-cant-be-called-using-an-explicit-receiver)
+ 8. [Private methods are inherited by derived classes](#private-methods-are-inherited-by-derived-classes)
+ 9. [Recommendations when to use public methods](#recommendations-when-to-use-private-methods)
+ 10. [Style recommendations](#style-recommendations)
+ 11. [Conclusions](#conclusions)
 
 ----------
 ## What are private methods in Ruby?
