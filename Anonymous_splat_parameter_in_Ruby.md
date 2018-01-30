@@ -9,11 +9,11 @@ In this article, we'll talk about what is the anonymous splat parameter and how 
 ----------
 This article is divided into the following sections:
 
- 1. [Syntax](#)
- 2. [Used to ignore the arguments that the method will receive](#)
- 3. [We can choose which arguments we will ignore](#)
- 4. [Used with inheritance and with usage of the super method](#)
- 5. [Conclusions](#)
+ 1. [Syntax](#syntax)
+ 2. [Used to ignore the arguments that the method will receive](#used-to-ignore-the-arguments-that-the-method-will-receive)
+ 3. [We can choose which arguments we will ignore](#we-can-choose-which-arguments-we-will-ignore)
+ 4. [Used with inheritance and with usage of the super method](#used-with-inheritance-and-with-usage-of-the-super-method)
+ 5. [Conclusions](#conclusions)
 
 ----------
 ## Syntax
