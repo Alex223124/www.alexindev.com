@@ -9,9 +9,9 @@ In this article, we will consider the features of working with the positional pa
 ----------
 This article is divided into the following sections:
 
- 1. [What is a positional parameter?](#)
- 2. [The presence of arguments for the positional parameter is required](#)
- 3. [Conclusions](#)
+ 1. [What is a positional parameter?](#what-is-a-positional-parameter)
+ 2. [The presence of arguments for the positional parameter is required](#the-presence-of-arguments-for-the-positional-parameter-is-required)
+ 3. [Conclusions](#conclusions)
 ----------
 ## What is a positional parameter?
 
