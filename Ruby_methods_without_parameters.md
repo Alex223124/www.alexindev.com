@@ -9,10 +9,10 @@ In this article, we will take a look at methods that don't have any parameters.
 ----------
 This article is divided into the following sections:
 
- 1. [Syntax](#)
- 2. [If you pass some arguments, then ruby will display an error](#)
- 3. [Even if a method doesn't have defined parameters, the method still takes a block](#)
- 4. [Conclusions](#)
+ 1. [Syntax](#syntax)
+ 2. [If you pass some arguments, then ruby will display an error](#if-you-pass-some-arguments-then-ruby-will-display-an-error)
+ 3. [Even if a method doesn't have defined parameters, the method still takes a block](#even-if-a-method-doesnt-have-defined-parameters-the-method-still-takes-a-block)
+ 4. [Conclusions](#conclusions)
 
 ----------
 ## Syntax
