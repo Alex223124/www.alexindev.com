@@ -9,15 +9,15 @@ This article is the second part of the introduction to the parameters in ruby. T
 ----------
 This article is divided into the following sections:
 
- 1. [Parameters and arguments must match each other](#)
- 2. [Parameters make the methods flexible and allow them to be reused with another set of data](#)
- 3. [Make sure that you have information about the parameters of a method](#)
- 4. [In some situations of misuse of parameters, an error message will not be displayed](#)
- 5. [A method can define an unlimited number of parameters](#)
- 6. [The order in which the arguments are passed to the method - from left to right](#)
- 7. [Some parameters can use other parameters](#)
- 8. [The parameter name should help to understand what needs to be passed to a method for correct work](#)
- 9. [Conclusions](#)
+ 1. [Parameters and arguments must match each other](#parameters-and-arguments-must-match-each-other)
+ 2. [Parameters make the methods flexible and allow them to be reused with another set of data](#parameters-make-the-methods-flexible-and-allow-them-to-be-reused-with-another-set-of-data)
+ 3. [Make sure that you have information about the parameters of a method](#make-sure-that-you-have-information-about-the-parameters-of-a-method)
+ 4. [In some situations of misuse of parameters, an error message will not be displayed](#in-some-situations-of-misuse-of-parameters-an-error-message-will-not-be-displayed)
+ 5. [A method can define an unlimited number of parameters](#a-method-can-define-an-unlimited-number-of-parameters)
+ 6. [The order in which the arguments are passed to the method - from left to right](#the-order-in-which-the-arguments-are-passed-to-the-method---from-left-to-right)
+ 7. [Some parameters can use other parameters](#some-parameters-can-use-other-parameters)
+ 8. [The parameter name should help to understand what needs to be passed to a method for correct work](#the-parameter-name-should-help-to-understand-what-needs-to-be-passed-to-a-method-for-correct-work)
+ 9. [Conclusions](#conclusions)
 ----------
 ## Parameters and arguments must match each other
 In ruby, there are a huge number of options for parameters that you can define for methods. It's important to understand that each parameter provides only certain possibilities for passing arguments to a method. The main reason for many errors is the difference between parameters that are determined by a method and the arguments that we are trying to pass to the method.
