@@ -9,12 +9,12 @@ In this article, we will consider the introductory theses on how suffixes work i
 ----------
 This article is divided into the following sections:
 
- 1. [Ruby use suffixes in method names for greater code readability](#)
- 2. [The rules about what suffixes and when to use are called conventions](#)
- 3. [Suffixes are only part of the method name and nothing else](#)
- 4. [Ruby has a limited number of suffixes](#)
- 5. [We can work around the rules of creating suffixes using the define_method method and the send method](#)
- 6. [Summary](#)
+ 1. [Ruby use suffixes in method names for greater code readability](#ruby-use-suffixes-in-method-names-for-greater-code-readability)
+ 2. [The rules about what suffixes and when to use are called conventions](#the-rules-about-what-suffixes-and-when-to-use-are-called-conventions)
+ 3. [Suffixes are only part of the method name and nothing else](#suffixes-are-only-part-of-the-method-name-and-nothing-else)
+ 4. [Ruby has a limited number of suffixes](#ruby-has-a-limited-number-of-suffixes)
+ 5. [We can work around the rules of creating suffixes using the define_method method and the send method](#we-can-work-around-the-rules-of-creating-suffixes-using-the-define_method-method-and-the-send-method)
+ 6. [Summary](#summary)
 ----------
 ## Ruby use suffixes in method names for greater code readability
 An attentive programmer may notice that in ruby there are methods with suffixes.
