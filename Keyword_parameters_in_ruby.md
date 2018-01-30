@@ -9,16 +9,16 @@ In this article, we'll look at the features of keyword parameters and how they a
 ----------
 This article is divided into the following sections:
 
- 1. [Syntax](#)
- 2. [Keyword parameters appeared in version 2.0](#)
- 3. [The keywords must be explicitly defined in the argument list when a method is called](#)
- 4. [Keyword parameters are mandatory](#)
- 5. [When using keyword parameters, arguments from the argument list can be swapped](#)
- 6. [Keyword parameters increase the readability of methods](#)
- 7. [We can define the default value for keyword parameters](#)
- 8. [When we pass new values, we overwrite the default values](#)
- 9. [Keyword parameters are ideal for tasks where by default we need to use false](#)
-10. [Conclusions](#)
+ 1. [Syntax](#syntax)
+ 2. [Keyword parameters appeared in version 2.0](#keyword-parameters-appeared-in-version-20)
+ 3. [The keywords must be explicitly defined in the argument list when a method is called](#the-keywords-must-be-explicitly-defined-in-the-argument-list-when-a-method-is-called)
+ 4. [Keyword parameters are mandatory](#keyword-parameters-are-mandatory)
+ 5. [When using keyword parameters, arguments from the argument list can be swapped](#when-using-keyword-parameters-arguments-from-the-argument-list-can-be-swapped)
+ 6. [Keyword parameters increase the readability of methods](#keyword-parameters-increase-the-readability-of-methods)
+ 7. [We can define the default value for keyword parameters](#we-can-define-the-default-value-for-keyword-parameters)
+ 8. [When we pass new values, we overwrite the default values](#when-we-pass-new-values-we-overwrite-the-default-values)
+ 9. [Keyword parameters are ideal for tasks where by default we need to use false](#keyword-parameters-are-ideal-for-tasks-where-by-default-we-need-to-use-false)
+10. [Conclusions](#conclusions)
 
 ----------
 ## Syntax
