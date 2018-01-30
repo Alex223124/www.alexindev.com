@@ -9,13 +9,13 @@ In this article, we'll look at situations where a parameter with the splat opera
 ----------
 This article is divided into the following sections:
 
- 1. [A parameter with splat operator is used when we want to transfer an undefined number of arguments](#)
- 2. [A parameter with the splat operator can reduce the amount of code](#)
- 3. [It is used in constructors when working with collections](#)
- 4. [In a parameter list, a parameter with the splat operator can be both before and after other parameters](#)
- 5. [Using a parameter with splat operator with a keyword parameter (a keyword parameter should be the last one)](#)
- 6. [Use with parameters with a default value](#)
- 7. [Conclusions](#)
+ 1. [A parameter with splat operator is used when we want to transfer an undefined number of arguments](#a-parameter-with-splat-operator-is-used-when-we-want-to-transfer-an-undefined-number-of-arguments)
+ 2. [A parameter with the splat operator can reduce the amount of code](#a-parameter-with-the-splat-operator-can-reduce-the-amount-of-code)
+ 3. [It is used in constructors when working with collections](#it-is-used-in-constructors-when-working-with-collections)
+ 4. [In a parameter list, a parameter with the splat operator can be both before and after other parameters](#in-a-parameter-list-a-parameter-with-the-splat-operator-can-be-both-before-and-after-other-parameters)
+ 5. [Using a parameter with splat operator with a keyword parameter (a keyword parameter should be the last one)](#using-a-parameter-with-splat-operator-with-a-keyword-parameter-a-keyword-parameter-should-be-the-last-one)
+ 6. [Use with parameters with a default value](#use-with-parameters-with-a-default-value)
+ 7. [Conclusions](#conclusions)
 
 ----------
 ## A parameter with splat operator is used when we want to transfer an undefined number of arguments
@@ -350,7 +350,7 @@ Thus, a parameter with the splat operator must be after a parameter with a defau
 
 
 ----------
-Conclusions
+## Conclusions
 - quite often in programming we can find situations where it's necessary to process an indefinite number of arguments where a parameter with splat operator can play a significant role
 - a parameter with the splat operator can also be used to reduce the amount of code
 - it is used in constructors when working with collections
