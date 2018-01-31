@@ -10,11 +10,11 @@ In this article, we'll look at the introductory theses on how we can control the
 ----------
 This article is divided into the following sections:
 
- 1. [Ruby supports 3 levels of access to methods](#)
- 2. [How do access control methods work?](#)
- 3. [Why do we have these methods in ruby?](#)
- 4. [public, private, protected - methods, not modifiers](#)
- 5. [public, private and protected works only with methods](#)
+ 1. [Ruby supports 3 levels of access to methods](#ruby-supports-3-levels-of-access-to-methods)
+ 2. [How do access control methods work?](#how-do-access-control-methods-work)
+ 3. [Why do we have these methods in ruby?](#why-do-we-have-these-methods-in-ruby)
+ 4. [public, private, protected - methods, not modifiers](#public-private-protected---methods-not-modifiers)
+ 5. [public, private and protected works only with methods](#public-private-and-protected-works-only-with-methods)
 ----------
 ## Ruby supports 3 levels of access to methods
 Ruby supports 3 levels of access to methods: public, protected, private .
