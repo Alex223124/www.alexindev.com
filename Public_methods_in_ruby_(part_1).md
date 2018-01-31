@@ -9,11 +9,11 @@ In this article, we'll look at the first part of the specifics of how public met
 ----------
 This article is divided into the following sections:
 
- 1. [What are public methods in Ruby?](#)
- 2. [By default, all methods have public access level](#)
- 3. [Exception 1. The initialize method is always private and doesn't require the private method call](#)
- 4. [Exception 2. Methods that we define in the global Scope are private methods of the Object class](#)
- 5. [Exception 3. Private methods that are defined in the Kernel module](#)
+ 1. [What are public methods in Ruby?](#what-are-public-methods-in-ruby)
+ 2. [By default, all methods have public access level](#by-default-all-methods-have-public-access-level)
+ 3. [Exception 1. The initialize method is always private and doesn't require the private method call](#exception-1-the-initialize-method-is-always-private-and-doesnt-require-the-private-method-call)
+ 4. [Exception 2. Methods that we define in the global Scope are private methods of the Object class](#exception-2-methods-that-we-define-in-the-global-scope-are-private-methods-of-the-object-class)
+ 5. [Exception 3. Private methods that are defined in the Kernel module](#exception-3-private-methods-that-are-defined-in-the-kernel-module)
 ----------
 ## What are public methods in Ruby?
 Public methods are methods that allow objects to interact with each other. The set of public methods of the object creates its interface. The more expressively defined such methods the easier it's to use the object. Public methods haven't restrictions when we using them (they can be used both inside the class and outside the class).
