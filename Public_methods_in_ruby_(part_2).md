@@ -9,16 +9,16 @@ In this article, we'll look at the second part of the specifics of how public me
 ----------
 This article is divided into the following sections:
 
- 1. [When to use the method public?](#)
- 2. [Using the public method with explicit arguments](#)
- 3. [Using the public method ("wrapper" syntax)](#)
- 4. [All public methods can be called from outside the class](#)
- 5. [Public methods are available for calling in all other methods](#)
- 6. [Public methods are inherited by derived classes](#)
- 7. [We can explicitly specify the receiver of the method](#)
- 8. [Recommendations when to use public methods](#)
- 9. [Style recommendations](#)
- 10. [Conclusions](#)
+ 1. [When to use the method public?](#when-to-use-the-method-public)
+ 2. [Using the public method with explicit arguments](#using-the-public-method-with-explicit-arguments)
+ 3. [Using the public method ("wrapper" syntax)](#using-the-public-method-wrapper-syntax)
+ 4. [All public methods can be called from outside the class](#all-public-methods-can-be-called-from-outside-the-class)
+ 5. [Public methods are available for calling in all other methods](#public-methods-are-available-for-calling-in-all-other-methods)
+ 6. [Public methods are inherited by derived classes](#public-methods-are-inherited-by-derived-classes)
+ 7. [We can explicitly specify the receiver of the method](#we-can-explicitly-specify-the-receiver-of-the-method)
+ 8. [Recommendations when to use public methods](#recommendations-when-to-use-public-methods)
+ 9. [Style recommendations](#style-recommendations)
+ 10. [Conclusions](#conclusions)
 
 ----------
 ## When to use the method public?
